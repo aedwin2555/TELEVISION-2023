@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF: - 1, Cartoon network 
+http://slp1.noxity.online:8081/INFANTIL/CARTOON_NETWORK6565/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMiAxOjE0OjQyIFBNJmhhc2hfdmFsdWU9bTZsVjZ3akM1VlppTjZ1cEpvdkFUZz09JnZhbGlkbWludXRlcz0yMjA=
+
+#EXTINF: -1, Canal Cartoonito 
+
+http://slp1.noxity.online:8081/INFANTIL/BOOOMERANG9998/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMiAzOjE0OjM1IFBNJmhhc2hfdmFsdWU9UkI2OWN0Wlc3Wm1YdTRaejBtQUJWdz09JnZhbGlkbWludXRlcz0yMjA=
